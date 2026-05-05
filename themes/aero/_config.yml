@@ -25,7 +25,7 @@ music:
     - title: 'ミスティック ブルース'
       artist: '具島直子'
       cover: '/image/icon/ミスティック ブルース.jpg'
-      url: '/music/ミスティック ブルース.mp3'
+      url: 'https://java-ai-yds.oss-cn-beijing.aliyuncs.com/music/%E5%85%B7%E5%B3%B6%E7%9B%B4%E5%AD%90%20-%20%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9_min.mp3'
 math:
   enable: true
   engine: mathjax

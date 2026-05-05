@@ -1,0 +1,31 @@
+menu:
+  about: /about
+favicon:
+  enable: true
+  icon: /image/icon/vista_messenger.jpg
+profile:
+  enable: true
+  author: '梦不见电子羊'
+  avatar: '/image/icon/avatar.jpg'  # Your avatar image, for example, https://avatars.githubusercontent.com/username
+  avatar_link: '' # The link you click on the avatar and jump to, for example, https://github.com/username
+  social: # you can customize which and how many social links to show
+    - name: Github
+      link: 'https://github.com/Cantdreamofelectronicsheep' # https://github.com/username
+      icon: /image/icon/github.png
+    - name: Bilibili
+      link: 'https://space.bilibili.com/399759033' 
+      icon: /image/icon/bilibili.png
+    - name: douyin
+      link: 'https://v.douyin.com/hk2UzeSGL6k/' 
+      icon: /image/icon/tiktok.png
+music:
+  enable: true
+  autoplay: false
+  songs:
+    - title: 'ミスティック ブルース'
+      artist: '具島直子'
+      cover: '/image/icon/ミスティック ブルース.jpg'
+      url: '/music/ミスティック ブルース.mp3'
+math:
+  enable: true
+  engine: mathjax

@@ -1,0 +1,8 @@
+<% if (theme.waline && theme.waline.enable && theme.waline.serverURL) { %>
+<div class="card post-full waline-card">
+    <span class="post-title article-title">
+        <%= page.layout === 'guestbook' ? '留言板' : '评论' %>
+    </span>
+    <div id="waline"></div>
+</div>
+<% } %>

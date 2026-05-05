@@ -29,3 +29,7 @@ music:
 math:
   enable: true
   engine: mathjax
+
+waline:
+  enable: true
+  serverURL: 'https://blog-waline-kappa-roan.vercel.app'

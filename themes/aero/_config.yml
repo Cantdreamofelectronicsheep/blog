@@ -32,4 +32,4 @@ math:
 
 waline:
   enable: true
-  serverURL: 'https://blog-waline-kappa-roan.vercel.app'
+  serverURL: 'https://comment.sheepblog.xyz'
